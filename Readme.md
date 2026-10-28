@@ -71,11 +71,11 @@ Workouts with a voice trainer, Indian food tracking, steps, expenses and a gym c
 <!-- Add your screenshots in a /screenshots folder and update the names below -->
 | Home | Workout | Trainer mode |
 |:---:|:---:|:---:|
-| ![Home](screenshots/home.png) | ![Workout](screenshots/workout.png) | ![Trainer](screenshots/trainer.png) |
+| ![Home](screenshots/01_home.png) | ![Workout](screenshots/02_workouts.png) | ![Profile](screenshots/06_profile.png) |
 
 | Food | Community | Expenses |
 |:---:|:---:|:---:|
-| ![Food](screenshots/food.png) | ![Community](screenshots/community.png) | ![Expenses](screenshots/expenses.png) |
+| ![Nutrition](screenshots/03_nutrition.png) | ![Community](screenshots/05_community.png) | ![Expenses](screenshots/04_progress.png) |
 
 ---
 
