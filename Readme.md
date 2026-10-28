@@ -13,7 +13,7 @@ Workouts with a voice trainer, Indian food tracking, steps, expenses and a gym c
 
 ## 📲 Download and install
 
-1. Open the **[Releases](https://github.com/Nagarasu0408/REPO-NAME/releases/latest)** page.
+1. Open the **[Releases](https://github.com/Nagarasu0408/RepForge---V1/releases/tag/Anvaya)** page.
 2. Download `RepForge.apk` from **Assets**.
 3. Open the file on your Android phone.
 4. If asked, allow **Install unknown apps** for your browser or file manager.
