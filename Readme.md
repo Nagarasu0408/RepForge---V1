@@ -2,6 +2,8 @@
 
 # 💪 RepForge
 
+<img width="1024" height="500" alt="feature_graphic_1024x500 (1)" src="https://github.com/user-attachments/assets/3834a9a0-539d-4c81-bb55-b34c806ce453" />
+
 **Your personal gym trainer in your pocket.**
 Workouts with a voice trainer, Indian food tracking, steps, expenses and a gym community, all in one Android app.
 
